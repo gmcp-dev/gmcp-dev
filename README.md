@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been working on this area since 10 years. I start with Java language creating Minecraft: Java Edition servers. Then, I expand my knowleage with PHP creating webs until then. Since that time, I focus on Web development, creating a lot Frontend structure and Backend logics to improve my skills. Java was a good one language to get the logic on OOP; now I can learn any other without difficulty or less than it would be.
+I've been working on this area since 10 years. I start with Java language creating Minecraft Java Edition servers. Then, I expand my knowleage with PHP creating webs until then. Since that time, I focus on web development, creating a lot Frontend structure and Backend logics to improve my skills. Java was a good one language to get the logic on OOP; now I can learn any other without difficulty or less than it would be.
 
-* 🌍  I'm based in República Dominicana
+* 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [geraldcaraballo027@gmail.com](mailto:geraldcaraballo027@gmail.com)
-* 🧠  I'm currently learning NodeJs and React
+* 🧠  I'm currently trying to be a Fullstack developer
 * 👥  I'm looking to collaborate on other projects
 
 <p align="left">
