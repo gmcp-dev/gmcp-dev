@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowDown, Mail } from 'lucide-react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { useLang } from '../context/LanguageContext';
-import gmcpLogo from '../assets/gmcp-logo.png';
+import imgLogoSrc from '../assets/logo.png';
 import './Hero.css';
 
 const Hero = () => {
@@ -44,7 +44,7 @@ const Hero = () => {
         <div className="hero-image-wrapper animate-fade-in delay-200">
           <div className="logo-container">
             <img
-              src={gmcpLogo}
+              src={imgLogoSrc}
               alt="GMCP Logo"
               className="hero-logo"
               onError={(e) => {
